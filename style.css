@@ -1,0 +1,72 @@
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+
+.header {
+  background-color: rgb(50, 167, 145);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+}
+
+.trybewarts-header-logo {
+  width: 60px;
+  height: auto;
+  margin-right: 10px;
+}
+
+#trybewarts-header-title {
+
+  width: 100%;
+  color: aliceblue;
+  text-align: justify;
+}
+
+.trybewarts-login {
+  display: flex;
+} 
+
+#entrar {
+  background-color: rgb(50, 77, 167);
+  color: white;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+
+.formulario1 {
+  display: flex;
+  text-align: center;
+
+}
+
+#evaluation-form {
+  flex: 1;
+}
+
+#title-Form {
+  text-align: center;
+}
+
+#brazao img {
+  width: 100%;
+  margin-top: 100px;
+  
+}
+footer {
+  text-align: center;
+  padding: 10px 0;
+  background-color: #f8f8f8;
+  border-top: 1px solid #ddd;
+}
+
+footer p {
+  font-size: 14px;
+  color: #888;
+}
